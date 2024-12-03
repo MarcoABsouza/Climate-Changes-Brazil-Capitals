@@ -56,3 +56,22 @@ Os dados transformados foram carregados no **Power BI** para a criação de um d
 ├── README.md                  # Detalhes do projeto.
 └── ClimateChanges.pbix        # Arquivo do Power BI (projeto do dashboard).
 
+```
+
+## 🔧 **Instalação**
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seuusuario/preco-monitoramento.git
+   cd preco-monitoramento
+   ```
+
+2. Crie e ative um ambiente virtual:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # No Windows, use venv\Scripts\activate
+   ```
+
+3. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+   ```

@@ -61,8 +61,7 @@ Os dados transformados foram carregados no **Power BI** para a criação de um d
 ## 🔧 **Instalação**
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/preco-monitoramento.git
-   cd preco-monitoramento
+   git clone https://github.com/MarcoABsouza/Climate-Changes-Brazil-Capitals.git
    ```
 
 2. Crie e ative um ambiente virtual:
